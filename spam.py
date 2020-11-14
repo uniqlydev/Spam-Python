@@ -1,7 +1,7 @@
 import pyautogui,time
 x=0
 numSpam = int(input("how many?:"))
-spamMessage = input("Message")
+spamMessage = input("Message: ")
 time.sleep(5)
 
 while x!=numSpam:
